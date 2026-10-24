@@ -1,0 +1,9 @@
+[alias]
+	t = log --all --decorate --oneline --graph
+
+[init]
+	defaultBranch = master
+
+[user]
+	email = vincent.mader@icloud.com
+	name = Vincent C. Mader
